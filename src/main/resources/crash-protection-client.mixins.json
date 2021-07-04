@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "crash-protection-client.refmap.json",
+    "package": "rmc.mixins.crash_protection_client.inject",
+    "mixins": [
+        "MinecraftMixin"
+    ]
+}
